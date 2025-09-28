@@ -16,7 +16,7 @@ The complaints are classified into the following categories:
 3 → Mortgage
 
 Code for Text Classification
-
+https://colab.research.google.com/drive/1gSVq36eXaCgnLm8awatuq32sJArSJ4CC#scrollTo=4pzJKy4eat5p&line=1&uniqifier=1
 Screenshots
 ![Screenshot 1] (Screenshot 2025-09-28 234008.png)
 ![Screenshot 2] (Screenshot 2025-09-28 234021.png)
