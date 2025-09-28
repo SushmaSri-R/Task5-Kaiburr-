@@ -19,5 +19,5 @@ Code for Text Classification
 Screenshots
 ![Screenshot 1] (Screenshot 2025-09-28 234008.png)
 ![Screenshot 2] (Screenshot 2025-09-28 234021.png)
-![Screenshot 3] (
+![Screenshot 3] (Screenshot 2025-09-28 234031.png)
 ![Screenshot 4] (
